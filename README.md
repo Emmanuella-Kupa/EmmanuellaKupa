@@ -1,4 +1,4 @@
-could you please check maybe there is an error here: <!DOCTYPE html>
+ <!DOCTYPE html>
 	<html lang="en">
 	<head>
 	    <meta charset="UTF-8">
